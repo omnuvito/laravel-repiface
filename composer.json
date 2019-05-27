@@ -2,6 +2,7 @@
     "name": "omnuvito/laravel-repoface",
     "description": "Laravel commands to create repositories and interfaces",
     "type": "library",
+    "license": "MIT",
     "keywords": [
         "Repository",
         "Interface",
