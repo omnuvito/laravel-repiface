@@ -1,6 +1,6 @@
 {
     "name": "omnuvito/laravel-repoface",
-    "description": "Laravel commands to create repositories and interfaces",
+    "description": "A cli tool for creating repositories and interfaces",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -17,7 +17,6 @@
             "homepage": "https://github.com/omnuvito"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
